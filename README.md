@@ -1,6 +1,8 @@
 # pico_macropad
 demo of macropad for pico using shopee philippines 3 key, rgb led, encoder
 
+youtube link  -------------- https://www.youtube.com/watch?v=WQhDFi53smE
+
 // macropad demo
 
 // hardware found on shopee philippines
