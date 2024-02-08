@@ -45,8 +45,12 @@ drag and drop from example/build/example.uf2 to pico usb drive
 
 
 //    first key in the array is left shift
+
 //    second key in the array is 'a' or 'b' or 'c'
+
 //
+
 // for every pressed key/s you have to send released keys (all zeros in the 6 byte array)
+
 
 
