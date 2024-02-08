@@ -52,5 +52,6 @@ drag and drop from example/build/example.uf2 to pico usb drive
 
 // for every pressed key/s you have to send released keys (all zeros in the 6 byte array)
 
+![Model](https://github.com/sonnny/pico_macropad/blob/main/macropad.png)
 
 
